@@ -18,7 +18,7 @@
 
 <h2>Details of the Works</h2>
 
-<p>I will [DETAILED SERVICES OVERVIEW]. This contract includes one main development cycle plus the opportunity for you to make up to two rounds of 10 revision points. If you&#8217;re not happy with the website at this stage, you agree to pay me in full for all of the work that I have produced until that point and you may either cancel this contract or continue to commission me to make further design revisions at my standard hourly rate of [$ HOURLY RATE]. </p>
+<p>I will [DETAILED SERVICES OVERVIEW]. This contract includes one main development cycle plus the opportunity for you to make [NUMBER OF ROUNDS OF REVISIONS]. If you&#8217;re not happy with the website at this stage, you agree to pay me in full for all of the work that I have produced until that point and you may either cancel this contract or continue to commission me to make further design revisions at my standard hourly rate of [$ HOURLY RATE]. </p>
 
 <h4>Text content and photography</h4>
 
@@ -64,7 +64,7 @@
 
 <h4>Ecommerce</h4>
 
-<p>If your web development service includes the integration of online purchasing/ecommerce facilities, you will be resopnsible for both the set-up and ongoing costs of these services. These may include merchant gateway fees, purchase of an SSL certificate and any other fees for services provided by this third party functionality. When the time comes to integrate these services, I will endevour to fully inform you of what costs may be involved.</p>
+<p>If your web development service includes the integration of online purchasing/ecommerce facilities, you will be responsible for both the set-up and ongoing costs of these services. These may include merchant gateway fees, purchase of an SSL certificate and any other fees for services provided by this third party functionality. When the time comes to integrate these services, I will endeavour to fully inform you of what costs may be involved.</p>
 
 <h2>Legal Stuff</h2>
 
@@ -85,7 +85,7 @@
 <li>It is possible that I will use plugins and code from external sources (jQuery for example). In this case, the ownership of that code will be based on the license it is provided with.</li>
 </ul>
 
-<p>I love to show off my work and share what I have learned with other people, so I would like the opportunity to display and link to your completed project as part of my portfolio and to write about the project on websites, in magazine articles and in books.</p>
+<p>I love to show off my work and share what I have learned with other people, so I may take the opportunity to display and link to your completed project as part of my portfolio and to write about the project on websites, in magazine articles and in books.</p>
 
 <h2>Payments</h2>
 
@@ -93,11 +93,11 @@
 
 <ul>
 <li>[% INITIAL PERCENTAGE] of total estimated maximum fee payable prior to work commencing: [$ INITIAL PERCENTAGE VALUE]</li>
-<li>Remainder of fee payable prior to handover of the completed files and/or website launch (whichever comes first): [$ REMAINING PAYMENT DUE]</li>
+<li>Remainder of fee payable prior to completion of the work, delivery of the files and/or website launch (whichever comes first): [$ REMAINING PAYMENT DUE]</li>
 <li>Should the website development cost come in below what was initially quoted, the difference will be deducted from the final invoice.</li>
 </ul>
 
-<p>I do not place any interest on late payments because that&#8217;s no fun for anyone, but reserve the right to stop work on the project and withdraw any staging site or otherwise up until the time any outstanding amount is settled. Hopefully this will not be the case.</p>
+<p>If payment is not made within 60 days of the work completion a fee of [$ LATE FEE] per full week passed the completion date will be added to the invoice total. I reserve the right to stop work on the project and withdraw any staging site or otherwise up until the time any outstanding amount is settled. Hopefully this will not be the case.</p>
 
 <h4>But where is all the horrible small print?</h4>
 
