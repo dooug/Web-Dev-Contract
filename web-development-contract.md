@@ -46,7 +46,7 @@
 
 <h4>Bug fixes</h4>
 
-<p>I am committed to fixing any code bugs associated with the code I have produced within a calendar month (up to 31 days) after completion of the project. Beyond this time, I am happy to quote to perform fixes or modify the site. This does not extend to any bugs in the CMS (content management system) used. It will be your responsibility to keep the CMS and any plugins used up to date for security reasons, unless you contract me on a ongoing basis to do so for you. While I endevour to code websites in a futureproof way, there may come an eventual time that modifications may be required to the site to support something in an upgrade. If this is outside the 31 day launch period the I will quote on this for you.</p>
+<p>I am committed to fixing any code bugs associated with the code I have produced within a calendar month (up to 31 days) after completion of the project. Beyond this time, I am happy to quote to perform fixes or modify the site. This does not extend to any bugs in the CMS (content management system) used. It will be your responsibility to keep the CMS and any plugins used up to date for security reasons, unless you contract me on a ongoing basis to do so for you. While I endeavour to code websites in a futureproof way, there may come an eventual time that modifications may be required to the site to support something in an upgrade. If this is outside the 31 day launch period the I will quote on this for you.</p>
 
 <h4>Technical support</h4>
 
@@ -60,7 +60,7 @@
 
 <h4>External Services</h4>
 
-<p>If part of our agreement includes services that I am not able to offer, I will either recommend someone to perform these for you or I can sub-contract these on your behalf. These services may include the likes of Web Design, Search Engine Marketing (SEA) or Search Engine Optimisation (SEO) services. I endevour to perform all web development work myself, but if need be I reserve the right to utilise the services of third party contractors.</p>
+<p>If part of our agreement includes services that I am not able to offer, I will either recommend someone to perform these for you or I can sub-contract these on your behalf. These services may include the likes of Web Design, Search Engine Marketing (SEA) or Search Engine Optimisation (SEO) services. I endeavour to perform all web development work myself, but if need be I reserve the right to utilise the services of third party contractors.</p>
 
 <h4>Ecommerce</h4>
 
